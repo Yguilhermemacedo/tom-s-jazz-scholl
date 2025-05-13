@@ -21,6 +21,8 @@ Esse projeto me ajudou a:
 
 ![Print do projeto](land-toms.png)
 
+🔗 [Clique aqui para ver o site publicado](https://yguilhermemacedo.github.io/tom-s-jazz-scholl/)
+
 ## 💭 Considerações
 
 Esse projeto tem um valor enorme pra mim por ser o **primeiro de muitos**. Voltar aqui e ver o quanto evoluí desde então é um baita incentivo pra continuar estudando e melhorando a cada linha de código.
