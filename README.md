@@ -19,7 +19,7 @@ Esse projeto me ajudou a:
 
 ## 📷 Demonstração
 
-> *(Você pode adicionar aqui uma imagem do projeto ou um link para o GitHub Pages caso tenha publicado! Posso te ajudar com isso também.)*
+![Print do projeto](land-toms.png)
 
 ## 💭 Considerações
 
